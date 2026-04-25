@@ -42,7 +42,7 @@ Display on the menu ```IP Tracker```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
 
-on the IP Track menu, you can combo with the seeker tool to get the target IP
+Pada menu IP Track, Anda dapat menggabungkannya dengan alat pencari untuk mendapatkan IP target
 <details>
 <summary>:zap: Install Seeker :</summary>
 - <strong><a href="https://github.com/thewhiteh4t/seeker">Get Seeker</a></strong>
