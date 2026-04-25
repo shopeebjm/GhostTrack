@@ -56,7 +56,7 @@ python3 GhostTR.py
 
 Tampilan Pada menu ```IP Tracker```
 
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
+<img width="1080" height="908" alt="Image" src="https://github.com/user-attachments/assets/c72443fa-1b4a-4346-adc0-e207910ee8eb" />
 
 Pada menu IP Track, Anda dapat menggabungkannya dengan alat pencari untuk mendapatkan IP target
 <details>
