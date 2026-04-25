@@ -17,7 +17,7 @@
 # Fungsi Tool
 Alat yang berguna untuk melacak lokasi atau nomor ponsel, sehingga alat ini dapat disebut OSINT atau juga pengumpulan informasi.
 
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png"/>
+<img width="834" height="468" alt="Image" src="https://github.com/user-attachments/assets/28c198dd-026a-4a92-a1bf-7454e84e32ad" />
 
 Pembaruan Terbaru :
 ```Version 2.2```
