@@ -72,7 +72,7 @@ Pada menu ini Anda dapat mencari informasi dari nomor telepon target.
 
 Tampilan Pada Menu ```Username Tracker```
 
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/User.png"/>
+<img width="1080" height="1415" alt="Image" src="https://github.com/user-attachments/assets/dd83871c-9dff-42aa-bcd0-b3ab54658696" />
 
 Pada menu ini Anda dapat mencari informasi dari nama pengguna di sosial media.
 <details>
