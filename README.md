@@ -38,7 +38,7 @@ pip3 install -r requirements.txt
 python3 GhostTR.py
 ```
 
-Display on the menu ```IP Tracker```
+Tampilan Pada menu ```IP Tracker```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
 
@@ -48,17 +48,17 @@ Pada menu IP Track, Anda dapat menggabungkannya dengan alat pencari untuk mendap
 - <strong><a href="https://github.com/thewhiteh4t/seeker">Get Seeker</a></strong>
 </details>
 
-Display on the menu ```Phone Tracker```
+Tampilan Pada menu ```Phone Tracker```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/phone.png" />
 
-on this menu you can search for information from the target phone number
+Pada menu ini Anda dapat mencari informasi dari nomor telepon target.
 
-Display on the menu ```Username Tracker```
+Tampilan Pada Menu ```Username Tracker```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/User.png"/>
-on this menu you can search for information from the target username on social media
 
+Pada menu ini Anda dapat mencari informasi dari nama pengguna di sosial media.
 <details>
 <summary>:zap: Author :</summary>
 - <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
