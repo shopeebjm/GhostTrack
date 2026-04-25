@@ -1,3 +1,5 @@
+# GhostTrack
+
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=TikTok+@shopee.bjm" />
 </p>
 <p align="center">
@@ -12,7 +14,7 @@
 
 </p>
 
-# GhostTrack
+# Fungsi Tool
 Alat yang berguna untuk melacak lokasi atau nomor ponsel, sehingga alat ini dapat disebut OSINT atau juga pengumpulan informasi.
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png"/>
