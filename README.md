@@ -66,7 +66,7 @@ Pada menu IP Track, Anda dapat menggabungkannya dengan alat pencari untuk mendap
 
 Tampilan Pada menu ```Phone Tracker```
 
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/phone.png" />
+<img width="1080" height="868" alt="Image" src="https://github.com/user-attachments/assets/f2a09183-1b4f-461b-b287-072558af84fc" />
 
 Pada menu ini Anda dapat mencari informasi dari nomor telepon target.
 
