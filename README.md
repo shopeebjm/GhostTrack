@@ -1,3 +1,17 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=TikTok+@shopee.bjm" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=G-h-o-s-t-T-r-a-c-k" />
+</p>
+
+<h2 align="center">
+  
+[![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://shopee.co.id/infinixnote40bjm)
+
+<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
+
+</p>
+
 # GhostTrack
 Alat yang berguna untuk melacak lokasi atau nomor ponsel, sehingga alat ini dapat disebut OSINT atau juga pengumpulan informasi.
 
@@ -30,7 +44,7 @@ pkg install git
 pkg install python3
 ```
 
-### Usage Tool
+### Command Prompt On Termux
 ```
 git clone https://github.com/shopeebjm/GhostTrack.git
 cd GhostTrack
@@ -94,7 +108,7 @@ Pada menu ini Anda dapat mencari informasi dari nama pengguna di sosial media.
 </h2>
 </div>
 
-‎## Follow Me :
+# follow Me :
 ‎
 ‎[![Messenger](https://img.shields.io/badge/Messengers-blue?style=for-the-badge&logo=messenger)](https://fb.me/shopee.bjm)
 ‎<a href="https://tiktok.com/@shopee.bjm"><img title="TikTok" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Tiktok"></a>
